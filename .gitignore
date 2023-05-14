@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+**/__pycache__
+.replit
+replit_zip_error_log.txt
+replit.nix
+
+
+# Unit test / coverage reports
+.cache
